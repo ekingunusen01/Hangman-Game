@@ -6,3 +6,6 @@ Game has a graphical user interface (GUI). It is simple and easy to use, support
 The game supports multiple string lengths and includes various features such as visual keyboard, score table, tips and countdown timer. Users can design his/her own word pool by editting the necessary .csv file properly.
 
 At the end of each game - whether it is succesfull or failed - users can enter his/her in-game performance and display it in a score board.
+
+![image alt](https://github.com/ekingunusen01/Hangman-Game/blob/main/hangman_game_inprogress.png?raw=true)
+![image alt]()
